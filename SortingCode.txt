@@ -4,8 +4,7 @@ import java.util.Arrays;
 
 class Geeks_For_Geeks {
 	  
-    // Function for Sorting the array
-    // using a single loop
+    
     public static int[] sortArrays(int[] arr)
     {
   
